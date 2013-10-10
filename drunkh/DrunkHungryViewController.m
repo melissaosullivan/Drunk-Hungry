@@ -64,8 +64,8 @@ CLLocationManager *locationManager;
     [locationManager stopUpdatingLocation];
     
     NSString *fsURL = [NSString stringWithFormat:@"%@%@%@%@", @"http://drunkhackny.herokuapp.com/?lat=",fslat, @"&lng=", fslng];
-    NSLog(@"fslat: %@",fslat);
-    NSLog(@"fslng: %@",fslng);
+    //NSLog(@"fslat: %@",fslat);
+    //NSLog(@"fslng: %@",fslng);
     
     //NSURL *url1 = [NSURL URLWithString:@"http://drunkhackny.herokuapp.com/?lat=41&lng=-74"];
     
