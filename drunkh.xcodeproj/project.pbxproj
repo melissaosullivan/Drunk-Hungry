@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		040A899B1809125900E92F2D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 040A899A1809125900E92F2D /* Main.storyboard */; };
 		046532F617F7B5270063D11C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046532F517F7B5270063D11C /* Foundation.framework */; };
 		046532F817F7B5270063D11C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046532F717F7B5270063D11C /* CoreGraphics.framework */; };
 		046532FA17F7B5270063D11C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 046532F917F7B5270063D11C /* UIKit.framework */; };
@@ -47,6 +48,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		040A899A1809125900E92F2D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Main.storyboard; sourceTree = "<group>"; };
 		046532F217F7B5270063D11C /* drunkh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = drunkh.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		046532F517F7B5270063D11C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		046532F717F7B5270063D11C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -155,6 +157,7 @@
 			isa = PBXGroup;
 			children = (
 				0465348A17F839BC0063D11C /* JSONModel */,
+				040A899A1809125900E92F2D /* Main.storyboard */,
 				0465330417F7B5270063D11C /* DrunkHungryAppDelegate.h */,
 				0465330517F7B5270063D11C /* DrunkHungryAppDelegate.m */,
 				0465330A17F7B5270063D11C /* DrunkHungryViewController.h */,
@@ -338,6 +341,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				040A899B1809125900E92F2D /* Main.storyboard in Resources */,
 				0465330E17F7B5270063D11C /* Images.xcassets in Resources */,
 				0465330017F7B5270063D11C /* InfoPlist.strings in Resources */,
 			);
