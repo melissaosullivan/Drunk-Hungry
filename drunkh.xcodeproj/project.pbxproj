@@ -496,6 +496,7 @@
 				GCC_PREFIX_HEADER = "drunkh/drunkh-Prefix.pch";
 				INFOPLIST_FILE = "drunkh/drunkh-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -509,6 +510,7 @@
 				GCC_PREFIX_HEADER = "drunkh/drunkh-Prefix.pch";
 				INFOPLIST_FILE = "drunkh/drunkh-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -574,6 +576,7 @@
 				0465332617F7B5270063D11C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0465332717F7B5270063D11C /* Build configuration list for PBXNativeTarget "drunkhTests" */ = {
 			isa = XCConfigurationList;
@@ -582,6 +585,7 @@
 				0465332917F7B5270063D11C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
