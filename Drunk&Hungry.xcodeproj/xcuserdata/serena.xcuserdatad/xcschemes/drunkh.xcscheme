@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "046532F117F7B5270063D11C"
                BuildableName = "drunkh.app"
-               BlueprintName = "drunkh"
-               ReferencedContainer = "container:drunkh.xcodeproj">
+               BlueprintName = "Drunk&amp;Hungry"
+               ReferencedContainer = "container:Drunk&amp;Hungry.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0465331217F7B5270063D11C"
                BuildableName = "drunkhTests.xctest"
-               BlueprintName = "drunkhTests"
-               ReferencedContainer = "container:drunkh.xcodeproj">
+               BlueprintName = "Drunk&amp;HungryTests"
+               ReferencedContainer = "container:Drunk&amp;Hungry.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -44,8 +44,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "046532F117F7B5270063D11C"
             BuildableName = "drunkh.app"
-            BlueprintName = "drunkh"
-            ReferencedContainer = "container:drunkh.xcodeproj">
+            BlueprintName = "Drunk&amp;Hungry"
+            ReferencedContainer = "container:Drunk&amp;Hungry.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "046532F117F7B5270063D11C"
             BuildableName = "drunkh.app"
-            BlueprintName = "drunkh"
-            ReferencedContainer = "container:drunkh.xcodeproj">
+            BlueprintName = "Drunk&amp;Hungry"
+            ReferencedContainer = "container:Drunk&amp;Hungry.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -81,8 +81,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "046532F117F7B5270063D11C"
             BuildableName = "drunkh.app"
-            BlueprintName = "drunkh"
-            ReferencedContainer = "container:drunkh.xcodeproj">
+            BlueprintName = "Drunk&amp;Hungry"
+            ReferencedContainer = "container:Drunk&amp;Hungry.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

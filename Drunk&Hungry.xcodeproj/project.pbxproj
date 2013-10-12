@@ -49,22 +49,22 @@
 
 /* Begin PBXFileReference section */
 		040A899A1809125900E92F2D /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../Main.storyboard; sourceTree = "<group>"; };
-		046532F217F7B5270063D11C /* drunkh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = drunkh.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		046532F217F7B5270063D11C /* Drunk&Hungry.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Drunk&Hungry.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		046532F517F7B5270063D11C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		046532F717F7B5270063D11C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		046532F917F7B5270063D11C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		046532FD17F7B5270063D11C /* drunkh-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "drunkh-Info.plist"; sourceTree = "<group>"; };
+		046532FD17F7B5270063D11C /* Drunk&Hungry-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Drunk&Hungry-Info.plist"; sourceTree = "<group>"; };
 		046532FF17F7B5270063D11C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0465330117F7B5270063D11C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0465330317F7B5270063D11C /* drunkh-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "drunkh-Prefix.pch"; sourceTree = "<group>"; };
+		0465330317F7B5270063D11C /* Drunk&Hungry-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Drunk&Hungry-Prefix.pch"; sourceTree = "<group>"; };
 		0465330417F7B5270063D11C /* DrunkHungryAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DrunkHungryAppDelegate.h; sourceTree = "<group>"; };
 		0465330517F7B5270063D11C /* DrunkHungryAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrunkHungryAppDelegate.m; sourceTree = "<group>"; };
 		0465330A17F7B5270063D11C /* DrunkHungryViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DrunkHungryViewController.h; sourceTree = "<group>"; };
 		0465330B17F7B5270063D11C /* DrunkHungryViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DrunkHungryViewController.m; sourceTree = "<group>"; };
 		0465330D17F7B5270063D11C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		0465331317F7B5270063D11C /* drunkhTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = drunkhTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		0465331317F7B5270063D11C /* Drunk&HungryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Drunk&HungryTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0465331417F7B5270063D11C /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		0465331C17F7B5270063D11C /* drunkhTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "drunkhTests-Info.plist"; sourceTree = "<group>"; };
+		0465331C17F7B5270063D11C /* Drunk&HungryTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Drunk&HungryTests-Info.plist"; sourceTree = "<group>"; };
 		0465331E17F7B5270063D11C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0465332017F7B5270063D11C /* drunkhTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = drunkhTests.m; sourceTree = "<group>"; };
 		0465332A17F833880063D11C /* Engine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Engine.h; sourceTree = "<group>"; };
@@ -135,8 +135,8 @@
 		046532F317F7B5270063D11C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				046532F217F7B5270063D11C /* drunkh.app */,
-				0465331317F7B5270063D11C /* drunkhTests.xctest */,
+				046532F217F7B5270063D11C /* Drunk&Hungry.app */,
+				0465331317F7B5270063D11C /* Drunk&HungryTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -177,10 +177,10 @@
 		046532FC17F7B5270063D11C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				046532FD17F7B5270063D11C /* drunkh-Info.plist */,
+				046532FD17F7B5270063D11C /* Drunk&Hungry-Info.plist */,
 				046532FE17F7B5270063D11C /* InfoPlist.strings */,
 				0465330117F7B5270063D11C /* main.m */,
-				0465330317F7B5270063D11C /* drunkh-Prefix.pch */,
+				0465330317F7B5270063D11C /* Drunk&Hungry-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -197,7 +197,7 @@
 		0465331B17F7B5270063D11C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0465331C17F7B5270063D11C /* drunkhTests-Info.plist */,
+				0465331C17F7B5270063D11C /* Drunk&HungryTests-Info.plist */,
 				0465331D17F7B5270063D11C /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -267,9 +267,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		046532F117F7B5270063D11C /* drunkh */ = {
+		046532F117F7B5270063D11C /* Drunk&Hungry */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0465332417F7B5270063D11C /* Build configuration list for PBXNativeTarget "drunkh" */;
+			buildConfigurationList = 0465332417F7B5270063D11C /* Build configuration list for PBXNativeTarget "Drunk&Hungry" */;
 			buildPhases = (
 				046532EE17F7B5270063D11C /* Sources */,
 				046532EF17F7B5270063D11C /* Frameworks */,
@@ -279,14 +279,14 @@
 			);
 			dependencies = (
 			);
-			name = drunkh;
+			name = "Drunk&Hungry";
 			productName = drunkh;
-			productReference = 046532F217F7B5270063D11C /* drunkh.app */;
+			productReference = 046532F217F7B5270063D11C /* Drunk&Hungry.app */;
 			productType = "com.apple.product-type.application";
 		};
-		0465331217F7B5270063D11C /* drunkhTests */ = {
+		0465331217F7B5270063D11C /* Drunk&HungryTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0465332717F7B5270063D11C /* Build configuration list for PBXNativeTarget "drunkhTests" */;
+			buildConfigurationList = 0465332717F7B5270063D11C /* Build configuration list for PBXNativeTarget "Drunk&HungryTests" */;
 			buildPhases = (
 				0465330F17F7B5270063D11C /* Sources */,
 				0465331017F7B5270063D11C /* Frameworks */,
@@ -297,9 +297,9 @@
 			dependencies = (
 				0465331917F7B5270063D11C /* PBXTargetDependency */,
 			);
-			name = drunkhTests;
+			name = "Drunk&HungryTests";
 			productName = drunkhTests;
-			productReference = 0465331317F7B5270063D11C /* drunkhTests.xctest */;
+			productReference = 0465331317F7B5270063D11C /* Drunk&HungryTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -317,7 +317,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 046532ED17F7B5270063D11C /* Build configuration list for PBXProject "drunkh" */;
+			buildConfigurationList = 046532ED17F7B5270063D11C /* Build configuration list for PBXProject "Drunk&Hungry" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -330,8 +330,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				046532F117F7B5270063D11C /* drunkh */,
-				0465331217F7B5270063D11C /* drunkhTests */,
+				046532F117F7B5270063D11C /* Drunk&Hungry */,
+				0465331217F7B5270063D11C /* Drunk&HungryTests */,
 			);
 		};
 /* End PBXProject section */
@@ -394,7 +394,7 @@
 /* Begin PBXTargetDependency section */
 		0465331917F7B5270063D11C /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 046532F117F7B5270063D11C /* drunkh */;
+			target = 046532F117F7B5270063D11C /* Drunk&Hungry */;
 			targetProxy = 0465331817F7B5270063D11C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -497,9 +497,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "drunkh/drunkh-Prefix.pch";
-				INFOPLIST_FILE = "drunkh/drunkh-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "drunkh/Drunk&Hungry-Prefix.pch";
+				INFOPLIST_FILE = "drunkh/Drunk&Hungry-Info.plist";
+				PRODUCT_NAME = "Drunk&Hungry";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -511,9 +511,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "drunkh/drunkh-Prefix.pch";
-				INFOPLIST_FILE = "drunkh/drunkh-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				GCC_PREFIX_HEADER = "drunkh/Drunk&Hungry-Prefix.pch";
+				INFOPLIST_FILE = "drunkh/Drunk&Hungry-Info.plist";
+				PRODUCT_NAME = "Drunk&Hungry";
 				TARGETED_DEVICE_FAMILY = 1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -535,8 +535,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "drunkhTests/drunkhTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "drunkhTests/Drunk&HungryTests-Info.plist";
+				PRODUCT_NAME = "Drunk&HungryTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -554,8 +554,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "drunkh/drunkh-Prefix.pch";
-				INFOPLIST_FILE = "drunkhTests/drunkhTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "drunkhTests/Drunk&HungryTests-Info.plist";
+				PRODUCT_NAME = "Drunk&HungryTests";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -564,7 +564,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		046532ED17F7B5270063D11C /* Build configuration list for PBXProject "drunkh" */ = {
+		046532ED17F7B5270063D11C /* Build configuration list for PBXProject "Drunk&Hungry" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0465332217F7B5270063D11C /* Debug */,
@@ -573,7 +573,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0465332417F7B5270063D11C /* Build configuration list for PBXNativeTarget "drunkh" */ = {
+		0465332417F7B5270063D11C /* Build configuration list for PBXNativeTarget "Drunk&Hungry" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0465332517F7B5270063D11C /* Debug */,
@@ -582,7 +582,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0465332717F7B5270063D11C /* Build configuration list for PBXNativeTarget "drunkhTests" */ = {
+		0465332717F7B5270063D11C /* Build configuration list for PBXNativeTarget "Drunk&HungryTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0465332817F7B5270063D11C /* Debug */,
